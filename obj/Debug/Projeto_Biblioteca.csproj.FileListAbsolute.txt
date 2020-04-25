@@ -1,0 +1,2 @@
+E:\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csprojAssemblyReference.cache
+E:\Projeto_Biblioteca\Projeto_Biblioteca\obj\Debug\Projeto_Biblioteca.csproj.CoreCompileInputs.cache
